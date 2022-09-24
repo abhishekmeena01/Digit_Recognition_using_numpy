@@ -1,2 +1,1 @@
-# MNIST_DigitRecogniser
-A faster version of my Digit-Recognition code using only python and numpy
+Machine learning project using MNIST dataset to predict digits 0-9. Implemented using neural networks, gradient descent and Back-Propagation methods.
