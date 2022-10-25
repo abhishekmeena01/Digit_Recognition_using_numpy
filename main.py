@@ -3,7 +3,7 @@ import functions as fn
 import gradientDescent as gd
 import pandas as pd
 
-data=pd.read_csv(r'C:\Users\Yash Priyadarshi\train.csv')
+data=pd.read_csv(r'C:\Users\Abhishek Meena\train.csv')
 data = np.array(data)
 m, n = data.shape
 
